@@ -1,0 +1,2 @@
+../../../testcases/circletype1//input2.txt ../../../my-outputs/circletype1//input2.txt
+output log exceeded 50 lines.

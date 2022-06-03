@@ -1,0 +1,2 @@
+../../../testcases/scatter7//input0.txt ../../../my-outputs/scatter7//input0.txt
+output log exceeded 50 lines.

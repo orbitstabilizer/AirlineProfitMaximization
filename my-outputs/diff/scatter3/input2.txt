@@ -1,0 +1,2 @@
+../../../testcases/scatter3//input2.txt ../../../my-outputs/scatter3//input2.txt
+===total profit is correct===
